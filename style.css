@@ -1,0 +1,9 @@
+*{
+    margin: 0; 
+    padding: 0; 
+}
+
+div {
+    line-height: 100vh;
+    text-align: center; 
+}
